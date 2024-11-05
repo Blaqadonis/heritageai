@@ -1,4 +1,4 @@
-# **Heritage - The Nigerian Peoples Arts & Cultures AI Query System**
+# **Heritage: AI-Powered Query System for Nigerian Arts & Culture**
 
 ![image](https://github.com/user-attachments/assets/89c939a7-a2dd-4739-9c59-1b2f97a0f22b)  
 
