@@ -1,6 +1,10 @@
 # **Heritage: AI-Powered Query System for Nigerian Arts & Culture**
+![heritage2](https://github.com/user-attachments/assets/111eb4e9-e4a4-47ae-a68f-b004d3a4d5d4)
 
-![image](https://github.com/user-attachments/assets/f06ef047-b67e-4bac-bb02-07de6d007c73)
+
+![CHINONSO ODIAKA's Video - Jun 7, 2025-VEED](https://github.com/user-attachments/assets/642e38a9-4add-45cb-bda1-6807ee6b3d23)
+
+
   
 
 
@@ -48,17 +52,20 @@ cd heritageai
 2. Set Up Environment Variables:
 Create a ```.env``` file in the root directory with the following:
 ```
-
 OPENROUTER_API_KEY=your_openrouter_api_key
 HF_TOKEN=your_huggingface_api_key
 TAVILY_API_KEY=your_tavily_api_key
-GENERATE_MODEL=meta-llama/llama-4-scout
-GRADER_MODEL=google/gemini-2.0-flash-001
-RESEARCH_MODEL=meta-llama/llama-4-scout
-EMBEDDINGS=sentence-transformers/all-mpnet-base-v2  
-FAISS_INDEX_PATH=./faiss_index
+MAIN_MODEL=meta-llama/llama-4-scout
+SUB_MODEL=openai/gpt-4.1-nano
+EMBEDDINGS=sentence-transformers/all-mpnet-base-v2
+RESET_DB=false
+SHOW_SPINNER=true
+CHROMA_DB_PATH=./chroma_db
 DATA_PATH=./data/
-
+LOGO_PATH=./images/heritage2.png
+PROJECT_NAME=Heritage AI
+THEME_DESCRIPTION=Nigerian Peoples, Arts, and Culture
+FUN_FACTS_FILE=./fun_facts.json
 ```
 3. Install Dependencies:
 ```
