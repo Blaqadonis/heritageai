@@ -89,3 +89,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Thanks to [Ready Tensor](https://app.readytensor.ai/hubs/ready_tensor_certifications) (the organisers of the program) for this opportunity.
 Gratitude to the open-source community for tools like LangGraph, Tavily, and Streamlit.
 
+Here is a [link](https://app.readytensor.ai/publications/heritage-an-ai-query-system-for-the-nigerian-peoples-their-pre-historic-arts-cultures-4fBZ6PYkO2mZ) to the publication of this project.
+
